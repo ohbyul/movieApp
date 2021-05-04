@@ -21,11 +21,11 @@ only react JS
 
 
 
-
+![20210504_112857](https://user-images.githubusercontent.com/79763173/116954830-fabd9880-accb-11eb-8541-759b2d3dd741.png)
 
 폴더 -> 보기 -> 숨긴항목 체크 후 .git 폴더 삭제했음.
 
-![20210504_112857](https://user-images.githubusercontent.com/79763173/116954830-fabd9880-accb-11eb-8541-759b2d3dd741.png)
+
 
 
 
