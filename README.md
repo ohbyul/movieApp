@@ -1,11 +1,11 @@
-# movieApp_2021
-only react JS
+# movieApp_2021 ver_01
+only react JS 
 
 
 
 노마드 코더 리액트 영화 앱 만들기 입니다.
 
-
+Rounter 기능 추가 전입니다.
 
 
 리액트로 만든 크롬 앱입니다.
