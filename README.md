@@ -1,4 +1,4 @@
-# movieApp_2021 ver_01
+# movieApp_2021/ ver_01
 only react JS 
 
 
